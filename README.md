@@ -11,7 +11,7 @@ Require
 
 Add the plugin much like any other:
 
-`cordova plugin add com.rd11.remote-controls`
+`cordova plugin add https://github.com/MPSoftDenmark/RemoteControls.git`
 
 ## Supported Platforms
 - iOS
