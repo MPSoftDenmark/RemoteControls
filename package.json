@@ -1,16 +1,16 @@
 {
-  "name": "com.rd11.remote-controls",
+  "name": "ios-remote-controls",
   "version": "1.0.1",
   "description": "iOS  lock-screen remote-controls and now playing display.",
   "cordova": {
-    "id": "com.rd11.remote-controls",
+    "id": "ios-remote-controls",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shi11/RemoteControls.git"
+    "url": "git+https://github.com/MPSoftDenmark/RemoteControls.git"
   },
   "keywords": [
     "lockscreen",
@@ -29,7 +29,7 @@
   "author": "Seth Hillinger",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/shi11/RemoteControls/issues"
+    "url": "https://github.com/MPSoftDenmark/RemoteControls/issues"
   },
-  "homepage": "https://github.com/shi11/RemoteControls#readme"
+  "homepage": "https://github.com/MPSoftDenmark/RemoteControls#readme"
 }
